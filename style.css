@@ -1,9 +1,33 @@
 * {
 	text-align: center;
 }
+
 h1 {
 	color: #d81111;
 }
+
 body{
-background-image: url("https://images.pexels.com/photos/164005/pexels-photo-164005.jpeg?auto=compress&cs=tinysrgb&h=350")
+	background-image: url("https://images.pexels.com/photos/164005/pexels-photo-164005.jpeg?auto=compress&cs=tinysrgb&h=350")
+}
+
+.pizza {
+	height: 460px;
+	width: 460px;
+}
+
+.macandcheese {
+	height: 500px;
+	width: 400px;
+}
+
+.chocolatecake {
+	height: 500px;
+	width: 400px;
+}
+
+.subtitle {
+	font-size: 50px;
+}
+.title {
+	font-size: 100px;
 }
